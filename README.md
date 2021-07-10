@@ -1,7 +1,7 @@
 # Zookeeper
 
 ## Purpose:
-- Create an app using Express.js to create a Node.js web server that coulc be used by clients to find animals and zookeepers at the zoo. Deployed using Heroku. Tested by using Jest.
+- Create an app using Express.js to create a Node.js web server that could be used by clients to find animals and zookeepers at the zoo. Deployed using Heroku. Tested by using Jest.
 
 ## Created using:
 - Node
